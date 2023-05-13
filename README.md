@@ -3,9 +3,9 @@
 <h3 align="center">A Data Scientist who is all about Data.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on **Machine Learning Project**
+- 🔭 I’m currently working on **Resume Stregth Analyzer**
 
-- 🌱 I’m currently learning **API Developement**
+- 🌱 I’m currently learning **Transformers for NLP**
 
 - 💬 Ask me about **Data Science/ML/DL**
 
