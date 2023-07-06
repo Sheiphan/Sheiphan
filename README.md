@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sheiphan Joseph</h1>
 <h3 align="center">A Data Scientist who is all about Data.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
