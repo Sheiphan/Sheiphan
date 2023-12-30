@@ -2,7 +2,7 @@
 <h3 align="center">A Data Scientist who is all about Data.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on **LLM Content Creator** & (Blog)[https://researchpaper101.notion.site/Research-Papers-101-b02fa4f8fed94e23b41850140c3a8b71]
+- 🔭 I’m currently working on **LLM Content Creator** & [Blog](https://researchpaper101.notion.site/Research-Papers-101-b02fa4f8fed94e23b41850140c3a8b71)
 
 - 🌱 I’m currently learning **MLOps & Research Paper**
 
